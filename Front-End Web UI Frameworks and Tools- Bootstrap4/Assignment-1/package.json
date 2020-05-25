@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Assignment1 Solution",
   "main": "index.js",
-  "scripts": { 
-    "start":"npm run lite",
+  "scripts": {
+    "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
@@ -13,5 +13,10 @@
   "devDependencies": {
     "lite": "^4.0.5",
     "server": "^1.0.27"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
   }
 }
