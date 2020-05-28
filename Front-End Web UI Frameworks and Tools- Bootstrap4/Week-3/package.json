@@ -19,20 +19,27 @@
   "license": "ISC",
   "devDependencies": {
     "cssmin": "^0.4.3",
+    "grunt": "^1.1.0",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-sass": "^2.1.0",
     "htmlmin": "0.0.7",
+    "install": "^0.13.0",
+    "jit-grunt": "^0.10.0",
     "lite-server": "^2.5.4",
     "node-sass": "^4.7.2",
-    "onchange": "^3.3.0",
+    "onchange": "^7.0.2",
     "parallelshell": "^3.0.2",
     "rimraf": "^2.6.2",
+    "time-grunt": "^1.4.0",
     "uglifyjs": "^2.4.11",
-    "usemin-cli": "^0.5.1"
+    "usemin-cli": "^0.6.0"
   },
   "dependencies": {
-    "bootstrap": "^4.0.0",
+    "bootstrap": "^4.5.0",
     "bootstrap-social": "^5.1.1",
     "font-awesome": "^4.7.0",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.1",
     "popper.js": "^1.12.9"
   },
   "description": ""
